@@ -1,6 +1,6 @@
 # Take-Home Exercise: Item Catalog (Database + CI/CD + Deployment)
 
-Thanks for taking the time to do this — it should take roughly **4–6 hours**.
+Thanks for taking the time to do this.
 Using AI coding tools (Copilot, Cursor, Claude, ChatGPT, etc.) is completely fine
 and expected. We're interested in the result *and* your judgment along the way,
 not in whether you typed every character yourself.
@@ -108,6 +108,7 @@ Not "did you get every detail perfect." We're looking at:
 
 ## Submitting
 
-Push to a private repo and share access, or send back as a zip. Either way,
-we'll do a short live follow-up session afterward where we'll ask you to
-walk through what you built.
+Submit your work as a repository (private is fine — just share access) with
+a real commit history showing your progress; a single squashed commit or a
+zip of the final state isn't sufficient. We'll do a short live follow-up
+session afterward where we'll ask you to walk through what you built.
